@@ -1,0 +1,16 @@
+
+/* ADD YOUR CUSTOM CSS TO THIS FILE BELOW */
+
+img {
+	width: 500px;
+		margin-left: -12px;
+}
+
+header {
+	background-color: black;
+	color: white;
+}
+
+.container {
+	border: 4px solid black;
+}
